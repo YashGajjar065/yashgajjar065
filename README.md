@@ -1,4 +1,4 @@
-![logo](https://github.com/YashGajjar7017/YashGajjar7017/blob/main/Yash.png)
+![logo](https://github.com/YashGajjar065/yashgajjar065/blob/main/bck.png)
 
 <h1 align="center">Hi 👋, I'm Yash Gajjar</h1>
 <h3 align="center">A passionate backhand developer from India. I will help you anything about this field.</h3><hr>
